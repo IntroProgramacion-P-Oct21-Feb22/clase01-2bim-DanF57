@@ -18,6 +18,7 @@ public class Ejemplo061 {
         entrada.useLocale(Locale.US);
         
         int operacion;
+        String mensaje = "";
         
         for (int contador = 1; contador <= 12; contador++) {
             operacion = 1 * contador;

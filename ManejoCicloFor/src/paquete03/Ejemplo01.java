@@ -19,8 +19,6 @@ public class Ejemplo01 {
             System.out.printf("%d", i);
         }
 
-        System.out.printf("%d\n", i);
-
     }
 }
 
